@@ -1,0 +1,15 @@
+        p{
+         text-align: center;
+       }
+       h1,h5{
+         text-align: center;
+       }
+       .maozinha{
+         display: block;
+         margin-left: auto;
+         margin-right: auto 
+      }
+      #obs{
+         border:2px;
+         background: rgb(218, 213, 213);
+      }
